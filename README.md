@@ -10,7 +10,7 @@ To learn the basic concepts of rust, I wrote a simple hangman game. The software
 
 Watch my demo here:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_m6NTl1Q5eE)
 
 # Development Environment
 
@@ -32,6 +32,6 @@ Dependencies
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add visuals of what letters have been used
+* Guesses have to be correct consonants before vowels
+* Multiple players can play
