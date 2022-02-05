@@ -31,7 +31,6 @@ Dependencies
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Add visuals of what letters have been used
 * Guesses have to be correct consonants before vowels
 * Multiple players can play
